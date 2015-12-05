@@ -10,7 +10,7 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 Marshmallows smell funny. What is a marshmallow anyway?
 
-Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
+Unfortunately, the Chief Marshmallow demands to see your [references](references/references.md).
 
 The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
 
